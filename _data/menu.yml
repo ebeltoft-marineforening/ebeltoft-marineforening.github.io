@@ -1,0 +1,44 @@
+#-------------------------------
+# Menu indstillinger
+
+# Title: Det der skal stå i menuen
+# Url: Sti til side
+
+- title: Startside
+  url: /
+
+- title: Formål
+  url: /formål/
+
+- title: Bestyrelsen
+  url: /bestyrelsen/
+
+- title: SMS service
+  url: /sms-service/
+
+- title: Aktiviteter
+  url: /aktiviteter/
+
+- title: Aktuelt
+  url: /aktuelt/
+
+- title: Galleri
+  url: /galleri/
+
+- title: Slopkisten
+  url: /slopkisten/
+
+- title: Skyttelav
+  url: /skyttelav/
+
+- title: Udlejning
+  url: /udlejning/
+
+- title: Diverse
+  url: /diverse/
+
+- title: Sponsorer
+  url: /sponsorer/
+
+- title: Links
+  url: /links/

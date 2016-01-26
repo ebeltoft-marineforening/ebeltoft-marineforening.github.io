@@ -1,0 +1,89 @@
+/************
+ * Base
+ ************/
+// SMS FORM
+.w_tilmeld
+ font-family: roboto
+ background-color: white
+
+.w_row
+ margin-top: 10px
+.w_headline
+ display: none
+.w_submit
+ background-color: $primary-color
+ color: white
+ border-radius: 5px
+ padding: 5px 20px
+ border: 0
+ margin-bottom: 10px
+
+
+
+// Mobile nav toogle button
+.mobile-nav-toggle
+  display: none
+  min-width: 30px
+  max-width: 30px
+  height: 40px
+  margin-top: -20px
+  align-items: center
+  cursor: pointer
+  margin-left: auto
+
+  @media(max-width: 630px)
+    display: flex
+
+  &:selection
+    background: transparent
+
+  &:-moz-selection
+    background: transparent
+
+  span,
+  span:before,
+  span:after
+    content: ""
+    display: block
+    height: 2px
+    width: 100%
+    background: rgb(97, 97, 97)
+    position: relative
+
+    transition: all 0.3s ease-in-out
+
+  span:before
+    top: 10px
+
+  span:after
+    top: -12px
+
+  &.is-open span
+    background: transparent
+
+  &.is-open span:before,
+  &.is-open span:after
+    transform-origin: center
+    transform: rotate(45deg)
+    top: 0
+    background-color: $primary-color
+
+  &.is-open span:before
+    transform: rotate(-45deg)
+
+
+// Selection colors
+::selection
+  background: $selection-color
+
+::-moz-selection
+  background: $selection-color
+
+img::selection
+  background: transparent
+
+img::-moz-selection
+  background: transparent
+
+body
+  -webkit-tap-highlight-color: $selection-color
