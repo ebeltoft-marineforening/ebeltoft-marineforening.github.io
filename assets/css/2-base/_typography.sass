@@ -1,0 +1,109 @@
+/************
+ * Typography
+ ************/
+
+// Roboto
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic)
+//FontAwesome
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css)
+
+// Main typorgraphy
+html, body
+  font-family: 'Roboto', sans-serif
+  color: $text-color
+  -webkit-font-smoothing: antialiased
+  -webkit-text-size-adjust: 100%
+
+
+/************
+ * Headings
+ ************/
+//H1: Display 3
+//H2: Display 2
+//H3: Display 1
+//H4: Headline
+//H5: Title
+//H6: Subhead
+
+.display-3
+  font-size: 56px
+  font-weight: 400
+  line-height: 56px
+  letter-spacing:  -0.005em
+
+.display-2
+  font-size: 45px
+  font-weight: 400
+  line-height: 64px
+
+h1, .display-1
+  font-size: 34px
+  font-weight: 400
+  line-height: 40px
+
+h2, .headline
+  font-size: 24px
+  font-weight: 400
+  line-height: 32px
+
+h3, .title
+  font-size: 20px
+  font-weight: 500
+  letter-spacing: 0.005em
+  margin: 20px 0 10px 0
+
+h4, .subhead
+  font-size: 16px
+  font-weight: 500
+  letter-spacing: 0.010em
+  line-height: 24px
+  margin: 20px 0 0 0
+
+/************
+ * Body
+ ************/
+p, .body-normal
+  font-size: 16px
+  font-weight: 400
+  letter-spacing: 0.010em
+  line-height: 25px
+  margin-top: 0
+
+strong, b, .body-bold
+  font-size: 16px
+  font-weight: 500
+  letter-spacing: 0.010em
+  line-height: 24px
+
+small, .body-caption
+  font-size: 12px
+  letter-spacing: 0.020em
+
+.greyed-out
+  color: lighten($text-color, 30%)
+
+em
+  font-style: italic
+
+/************
+ * Other
+ ************/
+
+a
+  font-size: 16px
+  font-weight: 400
+  color: $link-color
+  text-decoration: none
+  letter-spacing: 0.010em
+  transition: all 200ms ease-in-out
+
+  &:hover, &:focus
+    color: lighten($link-color, 20%)
+    //text-decoration: underline
+
+hr
+  border: solid #ddd
+  border-width: 1px 0 0
+  clear: both
+  margin: 10px 0 30px
+  height: 0

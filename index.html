@@ -1,0 +1,10 @@
+---
+layout: normal-side
+title: Velkommen om bord
+---
+
+{% for side in site.sider %}
+  {% if side.title == 'startside' %}
+    {{ side.content }}
+  {% endif %}
+{% endfor %}
