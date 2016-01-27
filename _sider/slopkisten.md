@@ -14,5 +14,3 @@ Kun medlemmer af foreningen kan erhverve effekterne, der udelukkende forhandles 
 [Se slopkisten klik her](http://www.grenaamarineforening.dk/programmer/slop_varekatalog.pdf)
 
 ![Slopkisten](/assets/img/slopkisten.gif)
-
-1

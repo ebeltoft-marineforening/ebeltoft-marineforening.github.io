@@ -12,7 +12,7 @@
     <ul>
       {% for menuItem in site.data.menu %}
       {% assign current = page.url | downcase | split: '/' %}
-      <li><a href="{{menuItem.url | prepend: site.baseurl}}" {% if page.url contains menuItem.url %} class="active" {% endif %}>{{menuItem.title}}</a></li>
+      <li><a href="{{menuItem.url | prepend: site.baseurl}}" {% if current contains menuItem.url %} class="active" {% endif %}>{{menuItem.title}}</a></li>
       {% endfor %}
 
     </ul>
