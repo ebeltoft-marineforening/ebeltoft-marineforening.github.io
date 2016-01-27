@@ -1,6 +1,7 @@
 ---
 title: Slopenkisten
 published: true
+permalink: /slopkisten/index.html
 ---
 
 
