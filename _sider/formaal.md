@@ -1,5 +1,6 @@
 ---
 title: Formål
+permalink: /formaal/index.html
 ---
 Foreningen har til formål at søge og at styrke nationens interesse for søværnet og søfarten ved fælles arbejde for denne sag, samt at vedligeholde forbindelsen og kammeratskabsfølelsen
 mellem personel der har gjort tjeneste eller er tjenstgørende i søværnet.
