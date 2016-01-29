@@ -2,6 +2,7 @@
 title: Bestyrelsen
 ---
 Kort tekst om bestyrelsen.
+[Link til sms administration](http://wp.ebeltoftmarineforening.dk/)
 
 Post              | Navn                  | Telefon     | E-mail
 ----------------- | --------------------- | ------------| -------------
