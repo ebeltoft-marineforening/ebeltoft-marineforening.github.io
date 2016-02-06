@@ -1,3 +1,0 @@
----
-title: Slop og Slupkor
----

@@ -7,8 +7,8 @@
 - title: Startside
   url: /
 
-- title: Formål
-  url: /formaal/
+- title: Præsentation
+  url: /praesentation/
 
 - title: Bestyrelsen
   url: /bestyrelsen/
@@ -27,6 +27,12 @@
 
 - title: Slopkisten
   url: /slopkisten/
+
+- title: Slup og slupkor
+  url: /slup-og-slupkor/
+
+- title: Adoptionsskib
+  url: /adoptionsskib/
 
 - title: Skyttelav
   url: /skyttelav/
