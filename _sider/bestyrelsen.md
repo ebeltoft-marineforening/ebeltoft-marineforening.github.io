@@ -5,6 +5,7 @@ published: true
 
 Kort tekst om bestyrelsen.
 [Link til sms administration](http://wp.ebeltoftmarineforening.dk/)
+
 ## Bestyrelsen
 
 Post              | Navn                  | Telefon     
@@ -22,7 +23,7 @@ Flaggaster 		  | Tommy Schmidt     	  | 86 34 35 25
 ## Udpeget udenfor bestyrelsen
 
 Post              							| Navn                  | Telefon     
------------------ 							| --------------------- | ------------
+------------------------------------------- | --------------------- | ------------
 Leder af slupkoret           				| Uwe Weissfeld  	  	| 24 99 90 20
 Leder af travalje-restaureringen            | Christian Koudal  	| 86 34 18 17
 Leder af praktisk vedligeholdelse af fartøjerne | Kurt Nielsen  	| 86 34 36 69
