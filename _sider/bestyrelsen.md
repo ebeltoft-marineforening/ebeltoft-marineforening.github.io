@@ -6,6 +6,7 @@ published: true
 Kort tekst om bestyrelsen.
 [Link til sms administration](http://wp.ebeltoftmarineforening.dk/)
 ## Bestyrelsen
+
 Post              | Navn                  | Telefon     
 ----------------- | --------------------- | ------------
 Formand           | Erich H. Iranzen  	  | 40 27 10 33 
@@ -19,6 +20,7 @@ Intern revisor    | Ib Petersen     	  | 86 36 14 80
 Flaggaster 		  | Tommy Schmidt     	  | 86 34 35 25
 
 ## Udpeget udenfor bestyrelsen
+
 Post              							| Navn                  | Telefon     
 ----------------- 							| --------------------- | ------------
 Leder af slupkoret           				| Uwe Weissfeld  	  	| 24 99 90 20
