@@ -1,22 +1,26 @@
 ---
 title: Bestyrelsen
+published: true
 ---
+
 Kort tekst om bestyrelsen.
 [Link til sms administration](http://wp.ebeltoftmarineforening.dk/)
 
-Post              | Navn                  | Telefon     | E-mail
------------------ | --------------------- | ------------| -------------
-Formand           | Per Schultz Petersen  | 30 28 04 71 | [Email](mailto:fmd@grenaamarineforening.dk)
-Næstformand       | Gert J. Christensen   | 30 28 04 71 | [Email](mailto:fmd@grenaamarineforening.dk)
-Kasserer          | Peter Schack Poulsen  | 30 28 04 71 | [Email](mailto:fmd@grenaamarineforening.dk)
-Sekretær          | Søren Holck           | 30 28 04 71 | [Email](mailto:fmd@grenaamarineforening.dk)
-Banjemester       | Kai Strand            | 30 28 04 71 | [Email](mailto:fmd@grenaamarineforening.dk)
-Udlejning         | Bent H. Nielsen       | 25 37 19 74 | [Email](mailto:fmd@grenaamarineforening.dk)
-Slopkisten        | Lars Rosendal Meyer   | 40 10 23 66 | [Email](mailto:fmd@grenaamarineforening.dk)
-Skyttelavsformand | Claus Sørensen        | 22 58 24 32 | [Email](mailto:fmd@grenaamarineforening.dk)
-Indkøber          | Svend E. Madsen       | 86 30 93 93 | [Email](mailto:fmd@grenaamarineforening.dk)
+Post              | Navn                  | Telefon     
+----------------- | --------------------- | ------------
+Formand           | Erich H. Iranzen  	  | 40 27 10 33 
+Næstformand       | Frank Hede  		  | 23 46 57 22
+Kasserer          | Erik Lyager  		  | 20 57 52 17 
+Sekretær          | Peter Brøgger 		  | 40 71 95 09      
+Banjemester       | Kjeld Thejl 		  | 51 74 63 02    
+Flagalle 		  | Lars Bolvig     	  | 21 77 37 39
+Intern revisor 	  | Erik Grønlånd     	  | 51 52 63 82
+Intern revisor    | Ib Petersen     	  | 86 36 14 80
+Flaggaster 		  | Tommy Schmidt     	  | 86 34 35 25
 
 ![Bestyrelsen](/assets/img/bestyrelsen.gif)
+
+
 
 ## Referater fra bestyrelsemøder
 
