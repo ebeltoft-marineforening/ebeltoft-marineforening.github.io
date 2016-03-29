@@ -3,6 +3,7 @@ title: Bestyrelsen
 published: true
 ---
 
+
 Kort tekst om bestyrelsen.
 [Link til sms administration](http://wp.ebeltoftmarineforening.dk/)
 
@@ -32,7 +33,6 @@ Leder af Kanonlauget           				| Thorkil Thorsen  	  	| 40 33 50 65
 Leder vedr. Flagalleên           			| Kjeld Thejl  	  		| 51 74 63 02
 Leder af slupkoret           				| Gunnar Christensen  	| 86 34 16 54 
 
-![Bestyrelsen](/assets/img/bestyrelsen.gif)
 
 
 
