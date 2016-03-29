@@ -39,11 +39,7 @@ Leder af slupkoret           				| Gunnar Christensen  	| 86 34 16 54
 ## Referater fra bestyrelsemøder
 
 ### 2015
-* [Nr. 03](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
-* [Nr. 02](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
-* [Nr. 01](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
+
 
 ### 2014
-* [Nr. 03](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
-* [Nr. 02](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
-* [Nr. 01](http://www.grenaamarineforening.dk/programmer/best_moeder/2015/best_04_15.pdf)
+
