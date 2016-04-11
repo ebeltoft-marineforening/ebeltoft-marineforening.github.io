@@ -1,7 +1,11 @@
 ---
 title: Galleri
+published: true
 ---
+
 Mange af vores billeder kan findes på [Facebook](https://www.facebook.com/grenaamarineforening).
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BwKZbD8HG_2LQ3Jyd21ySXhWRmM#grid" style="width:100%; height:600px; border:0;"></iframe>
 
 ### 2014
 * [Adoptionsskibet TRITON - 2014  (Fotos: Sonja Kirk)](http://www.grenaamarineforening.dk/galleri_serie/Triton2014/index.html)
